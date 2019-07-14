@@ -7,7 +7,7 @@ This is where you can learn a little about me.
 
 Has this updated?
 
-![some text again](michaelleemccluskey.github.io/blob/master/assets/images/splash.jpg)
+![some text again](michaelleemccluskey.github.io/assets/images/splash.jpg)
 
 ![My helpful screenshot](/minimal-mistakes/assets/images/splash.jpg)
 ![splash.png]({{ site.baseurl }}/assets/images/splash.jpg)
