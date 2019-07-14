@@ -10,5 +10,7 @@ main:
     url: /publications/ #   url: /year-archive/
   - title: "Contact" # - title: "Sample Collections"
     url: /contact/ #   url: /collection-archive/
+  - title: "Splash page"
+    url: /splash-page/
   # - title: "Sitemap"
   #   url: /sitemap/
