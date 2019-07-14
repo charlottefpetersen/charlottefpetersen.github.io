@@ -5,7 +5,7 @@ title: "Intro"
 
 This is where you can learn a little about me.
 
-img src="{{site.baseurl}}/assets/images/splash.PNG"
+![Image of Yaktocat](https://github.com/MichaelLeeMcCluskey/michaelleemccluskey.github.io/blob/master/assets/images/splash.PNG)
 
 ![My helpful screenshot](/minimal-mistakes/assets/images/splash.png)
 ![splash.png]({{ site.baseurl }}/assets/images/splash.png)
