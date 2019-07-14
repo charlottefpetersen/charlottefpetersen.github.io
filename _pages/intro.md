@@ -6,6 +6,8 @@ title: "Intro"
 This is where you can learn a little about me.
   - image_path: /assets/images/splash.png
 
+img src="{{site.baseurl}}/assets/images/splash.PNG"
+
 ![My helpful screenshot](/minimal-mistakes/assets/images/splash.png)
 ![splash.png]({{ site.baseurl }}/assets/images/splash.png)
 
