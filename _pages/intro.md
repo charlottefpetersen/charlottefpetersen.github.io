@@ -7,9 +7,9 @@ This is where you can learn a little about me.
 
 Has this updated?
 
-![](https://github.com/MichaelLeeMcCluskey/michaelleemccluskey.github.io/blob/master/assets/images/splash.PNG)
+![some text](https://github.com/MichaelLeeMcCluskey/michaelleemccluskey.github.io/blob/master/assets/images/splash.jpg)
 
-![My helpful screenshot](/minimal-mistakes/assets/images/splash.png)
-![splash.png]({{ site.baseurl }}/assets/images/splash.png)
+![My helpful screenshot](/minimal-mistakes/assets/images/splash.jpg)
+![splash.png]({{ site.baseurl }}/assets/images/splash.jpg)
 
-![splash.png]({{ '/assets/images/splash.png' | relative_url }})
+![more text]({{ '/assets/images/splash.jpg' | relative_url }})
