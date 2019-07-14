@@ -5,6 +5,8 @@ title: "Intro"
 
 This is where you can learn a little about me.
 
+Has this updated?
+
 ![Image of Yaktocat](https://github.com/MichaelLeeMcCluskey/michaelleemccluskey.github.io/blob/master/assets/images/splash.PNG)
 
 ![My helpful screenshot](/minimal-mistakes/assets/images/splash.png)
