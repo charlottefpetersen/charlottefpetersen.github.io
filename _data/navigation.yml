@@ -12,5 +12,7 @@ main:
     url: /contact/ #   url: /collection-archive/
   - title: "Splash page"
     url: /splash-page/
+  - title: "Ginger gulp"
+    url: /ginger/
   # - title: "Sitemap"
   #   url: /sitemap/
