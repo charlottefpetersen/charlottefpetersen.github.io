@@ -3,4 +3,4 @@ permalink: /publications/
 title: "publications"
 ---
 
-This page shows my publications...
+[CV_CharlotteFPetersen]({{ site.url }}/assets/docs/parallelRC.pdf)

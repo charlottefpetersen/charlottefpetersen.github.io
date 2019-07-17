@@ -6,11 +6,9 @@ main:
     url: /research/ #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Publications" # - title: "Sample Posts"
     url: /publications/ #   url: /year-archive/
+  - title: "CV"
+    url: /assets/docs/parallelRC.pdf
   - title: "Contact" # - title: "Sample Collections"
     url: /contact/ #   url: /collection-archive/
-  - title: "Splash page"
-    url: /splash-page/
-  - title: "Ginger gulp"
-    url: /ginger/
   # - title: "Sitemap"
   #   url: /sitemap/
