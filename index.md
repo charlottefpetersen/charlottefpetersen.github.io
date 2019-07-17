@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/charlotte_landingpage.jpg
 excerpt: >
   I am theoretical physicist interested in the statistical mechanics of complex systems. I am currently a Lise Meitner Fellow in the Bio and Nano Physics Group at the University of Innsbruck.<br /><br />My research uses computer simulations to uncover emergent phenomena in complex magnetic, mechanical and glassy systems.<br />
 feature_row:
