@@ -7,7 +7,7 @@ main:
   - title: "Publications" # - title: "Sample Posts"
     url: https://scholar.google.fi/citations?hl=en&user=dIM6xYoAAAAJ&view_op=list_works&sortby=pubdate #   url: /year-archive/
   - title: "CV"
-    url: /assets/docs/parallelRC.pdf
+    url: /assets/docs/CPetersenCV.pdf
   # - title: "Contact" # - title: "Sample Collections"
   #   url: /contact/ #   url: /collection-archive/
   # - title: "Sitemap"
