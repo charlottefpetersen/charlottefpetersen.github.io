@@ -46,7 +46,7 @@ title: "Research"
     <td>Metamaterials are characterized by the property that their function is determined by their geometry, rather than their composition. One example of these, called “auxetic”, have the counter-intuitive behaviour of expanding laterally when stretched longitudinally. Porous solids, such as polymer or metallic foams, are examples of man made auxetic materials. These architected materials are designed with a re-entrant cell structure. Simple two dimensional models with re-entrant geometries have successfully reproduced this auxetic behaviour. We investigate the effect of disorder in these simple structures, and how it influences the auxetic properties.<br />Eur. Phys. J. B 91: 271. (2018)
 </td>
     <td>
-  <img src="/assets/images/disordered_material.png" alt="Charlotte F. Petersen image"></td>
+  <img src="/assets/images/disordered_material.jpg" alt="Charlotte F. Petersen image"></td>
 </tr>
 </table>
 <br />
