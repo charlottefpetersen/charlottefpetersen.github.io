@@ -2,8 +2,10 @@
 layout: splash
 permalink: /research/
 title: "Research"
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/cover_image_colour.jpg
 ---
-<h1>Research</h1>
 <h2>Constrained liquids and glasses</h2>
 <table border="0">
 <col width="800">
@@ -23,7 +25,7 @@ title: "Research"
 <table border="0">
 <col width="400">
  <tr>
-    <td><img src="/assets/images/porous_media_pic.eps.jpg" height="400" width="1000" alt="Charlotte F. Petersen image"></td>
+    <td><img src="/assets/images/porous_media_pic.eps.jpg" alt="Charlotte F. Petersen image"></td>
     <td>Liquids in crowded environments occur in many situations, including inside of cells, in catalysts, and in porous rock during oil recovery. Both experimentally, and in simple models, the transport in complex crowded media can be subdiffusive. The origin of this anomalous diffusion has been explained theoretically for the simple Lorentz model. I extend the Lorentz model towards realistic systems by relaxing one assumption of the model (the hard-exclusion interaction), and find that they system exhibits a percolation transition dependent on the energy of the probe particle, and the dynamics remain subdiffusive at the percolation point.<br />Soft Matter, 15, 3906 (2019)
 </td>
  </tr>
@@ -35,7 +37,7 @@ title: "Research"
  <tr>
     <td>Simple models are used extensively by physicists to probe the underlying physical processes of real systems. Ising type models, which consist of a number of interacting spins each with one degree of freedom, are particularly popular. Recent advances in lithography of nanomagnets has allowed such toy models to be built and imaged experimentally. In collaboration with experimentalists, I study how the geometry of the lattice can be tuned to allow us to investigate interesting physical effects like charge screening and frustration.<br />Science Advances, 5 (2), eaav6380, (2019)<br />Appl. Phys. Lett. 112, 092403 (2018)<br />Nature Communications 8, 995 (2017)<br />Nature Communications 7, 12635 (2016)
 </td>
-    <td><img src="/assets/images/spin_model.jpg" height="800" width="2000" scale="tofit" alt="Charlotte F. Petersen image"></td>
+    <td><img src="/assets/images/spin_model.jpg" alt="Charlotte F. Petersen image"></td>
  </tr>
 </table>
 <br />
@@ -55,7 +57,7 @@ title: "Research"
 <table border="0">
 <col width="400">
  <tr>
-    <td><img src="/assets/images/fluctuation.jpg" height="400" width="1000" alt="Charlotte F. Petersen image"></td>
+    <td><img src="/assets/images/fluctuation.jpg" alt="Charlotte F. Petersen image"></td>
     <td>In microscopic systems, there is a finite probability that the second law of thermodynamics will be violated on short time scales. This is quantified by the fluctuation theorem, in terms of a quantity called the dissipation function. In my PhD research, I investigated the significance and statistics of this function in the fluctuation theorem and related results, as well as using it to probe non-monotonic relaxation towards equilibrium.<br />J. Chem. Phys. 144, 074107 (2016)<br />Mol. Simulat. 42, 531 (2014)<br />Commun. Theor. Phys. 62, 476 (2014)<br />J. Chem. Phys. 139, 184106 (2013)<br />Thesis: An Investigation Into the Significance of Dissipation in Statistical Mechanics
 </td>
  </tr>
