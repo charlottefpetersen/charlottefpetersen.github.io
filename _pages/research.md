@@ -26,7 +26,7 @@ header:
 <col width="400">
  <tr>
     <td><img src="/assets/images/porous_media_pic.eps.jpg" alt="Charlotte F. Petersen image"></td>
-    <td>Liquids in crowded environments occur in many situations, including inside of cells, in catalysts, and in porous rock during oil recovery. Both experimentally, and in simple models, the transport in complex crowded media can be subdiffusive. The origin of this anomalous diffusion has been explained theoretically for the simple Lorentz model. I extend the Lorentz model towards realistic systems by relaxing one assumption of the model (the hard-exclusion interaction), and find that they system exhibits a percolation transition dependent on the energy of the probe particle, and the dynamics remain subdiffusive at the percolation point.<br />Soft Matter, 15, 3906 (2019)
+    <td>Liquids in crowded environments occur in many situations, including inside of cells, in catalysts, and in porous rock during oil recovery. Both experimentally, and in simple models, the transport in complex crowded media can be subdiffusive. The origin of this anomalous diffusion has been explained theoretically for the simple Lorentz model. I extend the Lorentz model towards realistic systems by relaxing one assumption of the model (the hard-exclusion interaction), and find that the system exhibits a percolation transition dependent on the energy of the probe particle, and the dynamics remain subdiffusive at the percolation point.<br />Soft Matter, 15, 3906 (2019)
 </td>
  </tr>
 </table>
