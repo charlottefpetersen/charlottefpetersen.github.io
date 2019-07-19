@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /publications/
+permalink: /publications
 title: "Publications"
 header:
   overlay_color: "#5e616c"
