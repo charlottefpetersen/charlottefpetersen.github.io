@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /research/
-title: "Research2"
+title: "Research"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/cover_image_colour.jpg
