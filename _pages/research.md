@@ -10,11 +10,11 @@ header:
 <table border="0">
 <col width="800">
  <tr>
-    <td>Liquids confined to small spaces display complex behaviour. One key feature is that the density of the liquid is not uniform, and varies with distance from the confining walls. A remarkable property of these liquids is that the degree of ordering among the particles changes non-monotonically with the degree of confinement. Likewise, the glass transition also shows a non-monotonic dependence on confinement length. My research seeks to disentangle the intrinsic effects of confinement from the byproduct of the non-uniform density profile.<br />
+    <td>Liquids confined to small spaces display complex behaviour. One key feature is that the density of the liquid is not uniform, but varies with distance from the confining walls. A remarkable property of these liquids is that the degree of ordering among the particles changes non-monotonically with the degree of confinement. Likewise, the glass transition also shows a non-monotonic dependence on confinement length. My research seeks to disentangle the intrinsic effects of confinement from the byproduct of the non-uniform density profile.<br />
     <br />
-    The first approach is to study a quasi-confined liquid, where the liquid is confined to the surface of a (4D) torus. In this homogenous system, the density is uniform, allowing us to investigate the intrinsic effects of confinement. <br />
+    The first approach is to study a quasi-confined liquid, where the liquid is confined to the surface of a (4D) torus. In this homogenous system, the density is uniform, allowing us to investigate the intrinsic effects of confinement.<br />
     <br />
-    The second approach is to study a liquid which is not confined, but instead has a field applied to the particles to impose a modulated density artificially. Complementary to the torus approach, this allows us to investigate the effect of density modulation independently of intrinsic confinement. The goal of this work is to characterize the glass transition in the modulated liquid, and compare it to that in confined liquids.
+    The second approach is to study a liquid which is not confined, but instead has a field applied to the particles to impose a modulated density artificially. Complementary to the torus approach, this allows us to investigate the effect of density modulation independently of confinement. The goal of this work is to characterize the glass transition in the modulated liquid, and compare it to that in confined liquids.
 </td>
     <td><img src="/assets/images/websitetorus_2.jpg" alt="Charlotte F. Petersen image"></td>
  </tr>
@@ -26,7 +26,7 @@ header:
 <col width="400">
  <tr>
     <td><img src="/assets/images/porous_media_pic.eps.jpg" alt="Charlotte F. Petersen image"></td>
-    <td>Liquids in crowded environments occur in many situations, including inside of cells, in catalysts, and in porous rock during oil recovery. Both experimentally, and in simple models, the transport in complex crowded media can be subdiffusive. The origin of this anomalous diffusion has been explained theoretically for the simple Lorentz model. I extend the Lorentz model towards realistic systems by relaxing one assumption of the model (the hard-exclusion interaction), and find that the system exhibits a percolation transition dependent on the energy of the probe particle, and the dynamics remain subdiffusive at the percolation point.<br /><a href="https://pubs.rsc.org/en/content/articlelanding/2019/SM/C9SM00442D#!divAbstract">Soft Matter, 15, 3906 (2019)</a>
+    <td>Liquids in crowded environments occur in many situations, including inside of cells, in catalysts, and in porous rock during oil recovery. Both experimentally, and in simple models, the transport in complex crowded media can be subdiffusive. The origin of this anomalous diffusion has been explained theoretically for the simple Lorentz model. I extend the Lorentz model towards realistic systems by relaxing one assumption of the model (the hard-exclusion interaction), and find that they system exhibits a percolation transition dependent on the energy of the probe particle, and the dynamics remain subdiffusive at the percolation point.<br /><a href="https://pubs.rsc.org/en/content/articlelanding/2019/SM/C9SM00442D#!divAbstract">Soft Matter, 15, 3906 (2019)</a>
 </td>
  </tr>
 </table>
@@ -63,7 +63,7 @@ header:
 <col width="400">
  <tr>
     <td><img src="/assets/images/fluctuation.jpg" alt="Charlotte F. Petersen image"></td>
-    <td>In microscopic systems, there is a finite probability that the second law of thermodynamics will be violated on short time scales. This is quantified by the fluctuation theorem, in terms of a quantity called the dissipation function. In my PhD research, I investigated the significance and statistics of this function in the fluctuation theorem and related results, as well as using it to probe non-monotonic relaxation towards equilibrium.<br />
+    <td>In microscopic systems, there is a finite probability that the second law of thermodynamics will be violated on short time scales. This is quantified by the fluctuation theorem, in terms of a quantity called the dissipation function. In my PhD research, I investigated the significance and statistics of this function in the fluctuation theorem and related results, as well as used it to probe non-monotonic relaxation towards equilibrium.<br />
     <a href="https://aip.scitation.org/doi/abs/10.1063/1.4941584">J. Chem. Phys. 144, 074107 (2016)</a><br />
     <a href="http://www.tandfonline.com/doi/abs/10.1080/08927022.2015.1068940">Mol. Simulat. 42, 531 (2014)</a><br />
     <a href="http://iopscience.iop.org/article/10.1088/0253-6102/62/4/05/meta">Commun. Theor. Phys. 62, 476 (2014)</a><br />
