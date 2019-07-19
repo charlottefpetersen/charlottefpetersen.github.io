@@ -6,4 +6,4 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/cover_image_grey.jpg
 ---
-this is just some random text
+https://scholar.google.fi/citations?hl=en&user=dIM6xYoAAAAJ&view_op=list_works&sortby=pubdate
