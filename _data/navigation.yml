@@ -2,8 +2,8 @@
 main:
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Research" #- title: "About"
-    url: /research/ #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  #- title: "Research" #- title: "About"
+  #  url: /research/ #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Publications" # - title: "Sample Posts"
     url: https://scholar.google.fi/citations?hl=en&user=dIM6xYoAAAAJ&view_op=list_works&sortby=pubdate #   url: /year-archive/
   - title: "CV"
