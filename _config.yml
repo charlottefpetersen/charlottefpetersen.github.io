@@ -106,24 +106,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Charlotte F. Petersen"
+  avatar           : "/assets/images/profile_pic.jpg"
+  bio              : "I am a physicist interested in the statistical mechanics of complex systems, and am currently a Lise Meitner Fellow in the Bio and Nano Physics Group at the University of Innsbruck.<br /><br />My research uses computer simulations to investigate emergent phenomena in complex magnetic, mechanical and glassy systems"
+  location         : "University of Innsbruck"
+  email            : "Charlotte.Petersen@uibk.ac.at"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
+    #- label: "Email"
+      #icon: "fas fa-fw fa-envelope-square"
+      #url: mailto:Charlotte.Petersen@uibk.ac.at
+    - label: "Group website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.uibk.ac.at/th-physik/bio_nano/"
+    - label: "ResearchGate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Charlotte_Petersen5"
+    #- label: "Facebook"
+      #icon: "fab fa-fw fa-facebook-square"
+      #url: "https://www.facebook.com/charlotte.petersen.758"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
@@ -229,7 +229,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  #- jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -238,7 +238,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  #- jekyll-feed
   - jemoji
   - jekyll-include-cache
 
