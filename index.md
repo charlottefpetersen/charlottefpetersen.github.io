@@ -24,7 +24,8 @@ The first approach is to study a quasi-confined liquid, where the liquid is conf
 <div style="text-align:center"><img src="/assets/images/websitetorus_2.jpg" alt="Charlotte F. Petersen image"></div>
 <br />
 The second approach is to study a liquid which is not confined, but instead has a field applied to the particles to impose a modulated density artificially. Complementary to the torus approach, this allows us to investigate the effect of density modulation independently of confinement. The goal of this work is to characterize the glass transition in the modulated liquid, and compare it to that in confined liquids.
-<a href="https://iopscience.iop.org/article/10.1088/1742-5468/ab3342/meta">Journal of Statistical Mechanics: Theory and Experiment, 8, 083216, (2019)</a><br />
+<br />
+<a href="https://iopscience.iop.org/article/10.1088/1742-5468/ab3342/meta">Journal of Statistical Mechanics: Theory and Experiment, 8, 083216 (2019)</a><br />
 <br />
 <br />
 <h2>Transport through porous media</h2>
