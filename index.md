@@ -11,7 +11,7 @@ sidebar:
   - #title: "Charlotte F. Petersen"
     image: /assets/images/sidebar_small.JPG
     image_alt: "image"
-    text: "I am a Lise Meitner Fellow in the Bio and Nano Physics Group at the University of Innsbruck, interested in the statistical mechanics of complex systems. My research uses computer simulations to investigate emergent phenomena in complex magnetic, mechanical and glassy systems."
+    text: "I am a research fellow in the Bernhardt Group within the Australian Institute for Bioengineering and Nanotechnology at the University of Queenslad. My research uses computer simulations to investigate emergent phenomena in complex magnetic, mechanical and glassy systems."
 ---
 <h1>Research activities</h1>
 <h2>Constrained liquids and glasses</h2>
