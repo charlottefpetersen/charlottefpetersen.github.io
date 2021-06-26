@@ -14,34 +14,6 @@ sidebar:
     text: "I am a research fellow at the Australian Institute for Bioengineering and Nanotechnology at the University of Queensland. I use computer simulations to investigate emergent phenomena in complex magnetic, mechanical and glassy systems."
 ---
 <h1>Research activities</h1>
-<h2>Stuff I do with Debra</h2>
-
-This is the stuff I do with Debra<br />
-<br />
-And some more stuff I do with Debra.<br />
-<br />
-<br />
-<div style="text-align:center"><img src="/assets/images/websitetorus_2.jpg" alt="Charlotte F. Petersen image"></div>
-<br />
-And possibly a few more things with Debra.
-<br />
-<a href="https://iopscience.iop.org/article/10.1088/1742-5468/ab3342/meta">Journal of Statistical Mechanics: Theory and Experiment, 8, 083216 (2019)</a><br />
-<br />
-<br />
-<h2>Stuff for my DECRA project</h2>
-
-This is what I'm dong on my DECRA project.<br />
-<br />
-More DECRA project.<br />
-<br />
-<br />
-<div style="text-align:center"><img src="/assets/images/websitetorus_2.jpg" alt="Charlotte F. Petersen image"></div>
-<br />
-And maybe some final DECRA project stuff.
-<br />
-<a href="https://iopscience.iop.org/article/10.1088/1742-5468/ab3342/meta">Journal of Statistical Mechanics: Theory and Experiment, 8, 083216 (2019)</a><br />
-<br />
-<br />
 <h2>Constrained liquids and glasses</h2>
 
 Liquids confined to small spaces display complex behaviour. One key feature is that the density of the liquid is not uniform, but varies with distance from the confining walls. A remarkable property of these liquids is that the degree of ordering among the particles changes non-monotonically with the degree of confinement. Likewise, the glass transition also shows a non-monotonic dependence on confinement length. My research seeks to disentangle the intrinsic effects of confinement from the byproduct of the non-uniform density profile.<br />
