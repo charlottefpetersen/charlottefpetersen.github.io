@@ -11,7 +11,7 @@ sidebar:
   - #title: "Charlotte F. Petersen"
     image: /assets/images/sidebar_small.JPG
     image_alt: "image"
-    text: "I am a Lise Meitner Fellow in the Bio and Nano Physics Group at the University of Innsbruck, interested in the statistical mechanics of complex systems. My research uses computer simulations to investigate emergent phenomena in complex magnetic, mechanical and glassy systems."
+    text: "I am a research fellow at the Australian Institute for Bioengineering and Nanotechnology at the University of Queensland. I use computer simulations to investigate emergent phenomena in complex magnetic, mechanical and glassy systems."
 ---
 <h1>Research activities</h1>
 <h2>Constrained liquids and glasses</h2>
@@ -24,6 +24,8 @@ The first approach is to study a quasi-confined liquid, where the liquid is conf
 <div style="text-align:center"><img src="/assets/images/websitetorus_2.jpg" alt="Charlotte F. Petersen image"></div>
 <br />
 The second approach is to study a liquid which is not confined, but instead has a field applied to the particles to impose a modulated density artificially. Complementary to the torus approach, this allows us to investigate the effect of density modulation independently of confinement. The goal of this work is to characterize the glass transition in the modulated liquid, and compare it to that in confined liquids.
+<br />
+<a href="https://iopscience.iop.org/article/10.1088/1742-5468/ab3342/meta">Journal of Statistical Mechanics: Theory and Experiment, 8, 083216 (2019)</a><br />
 <br />
 <br />
 <h2>Transport through porous media</h2>
