@@ -11,7 +11,7 @@ sidebar:
   - #title: "Charlotte F. Petersen"
     image: /assets/images/sidebar_small.JPG
     image_alt: "image"
-    text: "I am a research fellow at the Australian Institute for Bioengineering and Nanotechnology at the University of Queensland. I use computer simulations to investigate emergent phenomena in complex magnetic, mechanical and glassy systems."
+    text: "I am an ARC DECRA fellow in the School of Chemistry at the University of Sydney. I use computer simulations to investigate emergent phenomena in complex magnetic, mechanical and glassy systems."
 ---
 <h1>Research activities</h1>
 <h2>Constrained liquids and glasses</h2>
