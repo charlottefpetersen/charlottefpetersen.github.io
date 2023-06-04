@@ -16,7 +16,7 @@ sidebar:
 <h1>Research activities</h1>
 <h2>Extracting the hidden structure of glass</h2>
 
-Understanding the behaviour of glass is a longstanding mystery in materials science. On
+Understanding the behaviour of glass is a long-standing mystery in materials science. On
 large scales, glass is rigid and behaves like a solid. But curiously, its microscopic structure is
 disordered and looks like a liquid. Because of this, it is difficult to predict its mechanical
 properties with theory, which means that new advanced glasses can only be designed
@@ -46,8 +46,7 @@ The first approach is to study a quasi-confined liquid, where the liquid is conf
 <br />
 The second approach is to study a liquid which is not confined, but instead has a field applied to the particles to impose a modulated density artificially. Complementary to the torus approach, this allows us to investigate the effect of density modulation independently of confinement. The goal of this work is to characterize the glass transition in the modulated liquid, and compare it to that in confined liquids.
 <br />
-<a href="https://iopscience.iop.org/article/10.1088/1742-5468/ab3342/meta">Journal of Statistical Mechanics: Theory and Experiment, 8, 083216 (2019)</a><br />
-<br />
+<a href="https://iopscience.iop.org/article/10.1088/1742-5468/ab3342/meta">Journal of Statistical Mechanics: Theory and Experiment, 8, 083216 (2019)</a>
 <br />
 <h2>Transport through porous media</h2>
 Liquids in crowded environments occur in many situations, including inside of cells, in catalysts, and in porous rock during oil recovery. Both experimentally, and in simple models, the transport in complex crowded media can be subdiffusive. The origin of this anomalous diffusion has been explained theoretically for the simple Lorentz model. I extend the Lorentz model towards realistic systems by relaxing one assumption of the model (the hard-exclusion interaction), and find that they system exhibits a percolation transition dependent on the energy of the probe particle, and the dynamics remain subdiffusive at the percolation point.<br /><a href="https://pubs.rsc.org/en/content/articlelanding/2019/SM/C9SM00442D#!divAbstract">Soft Matter, 15, 3906 (2019)</a>
