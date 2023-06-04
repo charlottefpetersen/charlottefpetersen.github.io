@@ -33,7 +33,6 @@ should give us an improved understanding of the nature of glass, and provide sig
 benefits, such as an increased ability to rationally design amorphous materials with desired
 properties.<br />
 
-<br />
 <div style="text-align:center"><img src="/assets/images/speckle.jpg" alt="Charlotte F. Petersen image"></div>
 <br />
 
@@ -42,7 +41,6 @@ properties.<br />
 Liquids confined to small spaces display complex behaviour. One key feature is that the density of the liquid is not uniform, but varies with distance from the confining walls. A remarkable property of these liquids is that the degree of ordering among the particles changes non-monotonically with the degree of confinement. Likewise, the glass transition also shows a non-monotonic dependence on confinement length. My research seeks to disentangle the intrinsic effects of confinement from the byproduct of the non-uniform density profile.<br />
 <br />
 The first approach is to study a quasi-confined liquid, where the liquid is confined to the surface of a (4D) torus. In this homogenous system, the density is uniform, allowing us to investigate the intrinsic effects of confinement.<br />
-<br />
 <br />
 <div style="text-align:center"><img src="/assets/images/websitetorus_2.jpg" alt="Charlotte F. Petersen image"></div>
 <br />
