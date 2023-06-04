@@ -11,7 +11,7 @@ sidebar:
   - #title: "Charlotte F. Petersen"
     image: /assets/images/sidebar_small.JPG
     image_alt: "image"
-    text: "I am an ARC DECRA fellow in the School of Chemistry at the University of Sydney. I use computer simulations to investigate emergent phenomena in complex magnetic, mechanical and glassy systems."
+    text: "I am a lecturer and ARC DECRA fellow at the School of Chemistry at the University of Melbourne. I use computer simulations to investigate emergent phenomena in glassy and nonequilibrium systems."
 ---
 <h1>Research activities</h1>
 <h2>Extracting the hidden structure of glass</h2>
@@ -21,20 +21,20 @@ large scales, glass is rigid and behaves like a solid. But curiously, its micros
 disordered and looks like a liquid. Because of this, it is difficult to predict its mechanical
 properties with theory, which means that new advanced glasses can only be designed
 through trial and error. How can we understand the structure of glass in a way that’s useful
-for predicting its behaviour?
+for predicting its behaviour?<br />
 <br />
 One possible solution is to classify a material’s structure by how much the atoms vibrate,
 which could be measured by looking at how much the material’s diffraction pattern has
-been “blurred”. This is done routinely for crystals. I aim to investigate how this can be done
+been “blurred”. This is done routinely for crystals. I am investigating how this can be done
 for amorphous materials. The outcome will be a measure of structure based on how
 constrained each particle is. Using this new measure of structure, I aim to link the
 microscopic structure of glass to its macroscopic properties via computer simulations. This
 should give us an improved understanding of the nature of glass, and provide significant
 benefits, such as an increased ability to rationally design amorphous materials with desired
-properties.
+properties.<br />
 
 <br />
-<div style="text-align:center"><img src="/assets/images/speckle.pdf" alt="Charlotte F. Petersen image"></div>
+<div style="text-align:center"><img src="/assets/images/speckle.jpg" alt="Charlotte F. Petersen image"></div>
 <br />
 
 <h2>Constrained liquids and glasses</h2>
