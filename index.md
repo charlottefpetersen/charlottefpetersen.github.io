@@ -14,6 +14,29 @@ sidebar:
     text: "I am an ARC DECRA fellow in the School of Chemistry at the University of Sydney. I use computer simulations to investigate emergent phenomena in complex magnetic, mechanical and glassy systems."
 ---
 <h1>Research activities</h1>
+<h2>Extracting the hidden structure of glass</h2>
+
+Understanding the behaviour of glass is a longstanding mystery in materials science. On
+large scales, glass is rigid and behaves like a solid. But curiously, its microscopic structure is
+disordered and looks like a liquid. Because of this, it is difficult to predict its mechanical
+properties with theory, which means that new advanced glasses can only be designed
+through trial and error. How can we understand the structure of glass in a way that’s useful
+for predicting its behaviour?
+<br />
+One possible solution is to classify a material’s structure by how much the atoms vibrate,
+which could be measured by looking at how much the material’s diffraction pattern has
+been “blurred”. This is done routinely for crystals. I aim to investigate how this can be done
+for amorphous materials. The outcome will be a measure of structure based on how
+constrained each particle is. Using this new measure of structure, I aim to link the
+microscopic structure of glass to its macroscopic properties via computer simulations. This
+should give us an improved understanding of the nature of glass, and provide significant
+benefits, such as an increased ability to rationally design amorphous materials with desired
+properties.
+
+<br />
+<div style="text-align:center"><img src="/assets/images/speckle.pdf" alt="Charlotte F. Petersen image"></div>
+<br />
+
 <h2>Constrained liquids and glasses</h2>
 
 Liquids confined to small spaces display complex behaviour. One key feature is that the density of the liquid is not uniform, but varies with distance from the confining walls. A remarkable property of these liquids is that the degree of ordering among the particles changes non-monotonically with the degree of confinement. Likewise, the glass transition also shows a non-monotonic dependence on confinement length. My research seeks to disentangle the intrinsic effects of confinement from the byproduct of the non-uniform density profile.<br />
