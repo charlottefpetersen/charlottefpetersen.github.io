@@ -11,22 +11,42 @@ sidebar:
   - #title: "Charlotte F. Petersen"
     image: /assets/images/sidebar_small.JPG
     image_alt: "image"
-    text: "I am an ARC DECRA fellow in the School of Chemistry at the University of Sydney. I use computer simulations to investigate emergent phenomena in complex magnetic, mechanical and glassy systems."
+    text: "I am a lecturer and ARC DECRA fellow at the School of Chemistry at the University of Melbourne. I use computer simulations to investigate emergent phenomena in glassy and nonequilibrium systems."
 ---
 <h1>Research activities</h1>
+<h2>Extracting the hidden structure of glass</h2>
+
+Understanding the behaviour of glass is a long-standing mystery in materials science. On
+large scales, glass is rigid and behaves like a solid. But curiously, its microscopic structure is
+disordered and looks like a liquid. Because of this, it is difficult to predict its mechanical
+properties with theory, which means that new advanced glasses can only be designed
+through trial and error. How can we understand the structure of glass in a way that’s useful
+for predicting its behaviour?<br />
+<br />
+One possible solution is to classify a material’s structure by how much the atoms vibrate,
+which could be measured by looking at how much the material’s diffraction pattern has
+been “blurred”. This is done routinely for crystals. I am investigating how this can be done
+for amorphous materials. The outcome will be a measure of structure based on how
+constrained each particle is. Using this new measure of structure, I aim to link the
+microscopic structure of glass to its macroscopic properties via computer simulations. This
+should give us an improved understanding of the nature of glass, and provide significant
+benefits, such as an increased ability to rationally design amorphous materials with desired
+properties.<br />
+
+<div style="text-align:center"><img src="/assets/images/speckle.jpg" alt="Charlotte F. Petersen image"></div>
+<br />
+
 <h2>Constrained liquids and glasses</h2>
 
 Liquids confined to small spaces display complex behaviour. One key feature is that the density of the liquid is not uniform, but varies with distance from the confining walls. A remarkable property of these liquids is that the degree of ordering among the particles changes non-monotonically with the degree of confinement. Likewise, the glass transition also shows a non-monotonic dependence on confinement length. My research seeks to disentangle the intrinsic effects of confinement from the byproduct of the non-uniform density profile.<br />
 <br />
 The first approach is to study a quasi-confined liquid, where the liquid is confined to the surface of a (4D) torus. In this homogenous system, the density is uniform, allowing us to investigate the intrinsic effects of confinement.<br />
 <br />
-<br />
 <div style="text-align:center"><img src="/assets/images/websitetorus_2.jpg" alt="Charlotte F. Petersen image"></div>
 <br />
 The second approach is to study a liquid which is not confined, but instead has a field applied to the particles to impose a modulated density artificially. Complementary to the torus approach, this allows us to investigate the effect of density modulation independently of confinement. The goal of this work is to characterize the glass transition in the modulated liquid, and compare it to that in confined liquids.
 <br />
-<a href="https://iopscience.iop.org/article/10.1088/1742-5468/ab3342/meta">Journal of Statistical Mechanics: Theory and Experiment, 8, 083216 (2019)</a><br />
-<br />
+<a href="https://iopscience.iop.org/article/10.1088/1742-5468/ab3342/meta">Journal of Statistical Mechanics: Theory and Experiment, 8, 083216 (2019)</a>
 <br />
 <h2>Transport through porous media</h2>
 Liquids in crowded environments occur in many situations, including inside of cells, in catalysts, and in porous rock during oil recovery. Both experimentally, and in simple models, the transport in complex crowded media can be subdiffusive. The origin of this anomalous diffusion has been explained theoretically for the simple Lorentz model. I extend the Lorentz model towards realistic systems by relaxing one assumption of the model (the hard-exclusion interaction), and find that they system exhibits a percolation transition dependent on the energy of the probe particle, and the dynamics remain subdiffusive at the percolation point.<br /><a href="https://pubs.rsc.org/en/content/articlelanding/2019/SM/C9SM00442D#!divAbstract">Soft Matter, 15, 3906 (2019)</a>
